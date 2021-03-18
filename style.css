@@ -4,3 +4,18 @@
   height: 35vh;
   background-position:center;
 }
+
+.banner {
+  padding: 10rem;
+}
+
+.tractor-font {
+  font-size:xx-large;
+
+}
+
+
+* {
+  outline: solid 1px red;
+}
+
